@@ -1,0 +1,7 @@
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\PracticeSubmited\PracticeProblem_3\RainbowSchoolPage_2\RainbowSchoolPage_2\bin\Debug\RainbowSchoolPage_2.exe.config
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\PracticeSubmited\PracticeProblem_3\RainbowSchoolPage_2\RainbowSchoolPage_2\bin\Debug\RainbowSchoolPage_2.exe
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\PracticeSubmited\PracticeProblem_3\RainbowSchoolPage_2\RainbowSchoolPage_2\bin\Debug\RainbowSchoolPage_2.pdb
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\PracticeSubmited\PracticeProblem_3\RainbowSchoolPage_2\RainbowSchoolPage_2\obj\Debug\RainbowSchoolPage_2.csproj.AssemblyReference.cache
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\PracticeSubmited\PracticeProblem_3\RainbowSchoolPage_2\RainbowSchoolPage_2\obj\Debug\RainbowSchoolPage_2.csproj.CoreCompileInputs.cache
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\PracticeSubmited\PracticeProblem_3\RainbowSchoolPage_2\RainbowSchoolPage_2\obj\Debug\RainbowSchoolPage_2.exe
+C:\Users\vpava.DESKTOP-U064AL2\OneDrive\Desktop\Simplilearn\AssistedPractice\PracticeSubmited\PracticeProblem_3\RainbowSchoolPage_2\RainbowSchoolPage_2\obj\Debug\RainbowSchoolPage_2.pdb
